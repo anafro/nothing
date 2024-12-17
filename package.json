@@ -1,8 +1,21 @@
 {
-	"name": "nothing",
-	"private": true,
-	"version": "0.0.1",
+	"name": "@anfr/nothing",
+	"version": "1.0.0",
 	"type": "module",
+	"author": {
+		"name": "Anatoly Frolov",
+		"email": "anatolyfroloff@gmail.com",
+		"url": "https://anafro.ru/"
+	},
+	"homepage": "https://github.com/anafro/nothing",
+	"keywords": [
+		"anafro",
+		"anafro-tools",
+		"svelte",
+		"svelte-kit",
+		"tauri",
+		"rust"
+	],
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
