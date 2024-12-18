@@ -6,8 +6,8 @@
     "distDir": "../build"
   },
   "package": {
-    "productName": "nothing",
-    "version": "0.1.0"
+    "productName": "Anatoly Frolov: Nothing",
+    "version": "1.0.0"
   },
   "tauri": {
     "allowlist": {
@@ -28,7 +28,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "ru.anafro.nothing",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
